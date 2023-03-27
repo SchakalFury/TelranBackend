@@ -10,7 +10,7 @@ public class TaskApplication3 {
 
         for(Animal animal : animals){
             System.out.println(animal.getDescription());
-            System.out.println(animal.eat()); 
+            System.out.println(animal.eat());
         }
     }
 }
